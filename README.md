@@ -6,5 +6,3 @@ This project focuses on analyzing a music store database to extract valuable bus
 Database and Tools
 Postgre SQL
 PgAdmin4
-
-![Music_Store_Database_Schema]("C:\Users\HP\Downloads\music store data\music store data\schema_diagram.png")
